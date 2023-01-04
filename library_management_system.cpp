@@ -468,7 +468,7 @@ void returnbook()
             }
 
             fprintf(fptr,"\n");
-            flag==0;
+            flag=0;
         }
         fclose(fptr);
 
