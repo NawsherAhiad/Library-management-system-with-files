@@ -1,0 +1,5 @@
+ami topu,jafor iqbal,7890,20,70
+harry poter,j.K Rowling,567,22,200
+it ends with us,Collen Hoover,4568,22,80
+tech yourself C,Herbert Schildt,6789,18,87
+ami rashed,jafor iqbal,4567,13,300
